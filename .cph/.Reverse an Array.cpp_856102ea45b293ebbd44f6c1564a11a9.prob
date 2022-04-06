@@ -1,0 +1,1 @@
+{"name":"Local: Reverse an Array","url":"c:\\Users\\Dev\\Desktop\\DSA gfg\\Reverse an Array.cpp","tests":[{"id":1649244336866,"input":"1\n4\n1 2 3 4","output":"4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dev\\Desktop\\DSA gfg\\Reverse an Array.cpp","group":"local","local":true}
